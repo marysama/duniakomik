@@ -8,8 +8,8 @@ from random import choice
 from lightbulb.ext import tasks
 
 
-#token discord
-bot = lightbulb.BotApp(token='MTAyNjM5NzY2NTE3ODY5MzY2Mg.G-a8R3.tBBNiEgMHzy2weQZxfBZxo6ajTHnxWTRvfY3yU')
+#put your token discord here
+bot = lightbulb.BotApp(token='TOKEN')
 
 #run commands folder
 bot.load_extensions_from('./commands')
