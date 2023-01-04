@@ -7,7 +7,7 @@
 
 <!-- PROJECT -->
 <!--
-*** I'm using Hikari for this bot, although it's still incomplete, I'll keep update on GitHub.
+*** I'm using Hikari for this bot, although it's still incomplete, I'll keep update on GitHub. 
 -->
 
 
@@ -101,3 +101,8 @@ There are a lot free hosting site like:
 - heroku
 
 You can choose those site to keep your bot alive
+
+<!-- Credit -->
+## Credit
+
+This source code made by `Mary-Chan#0001`
